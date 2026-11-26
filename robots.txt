@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://desknote-jp.github.io/media/sitemap.xml
